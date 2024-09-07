@@ -180,7 +180,7 @@ def clean_code(df1):
 #=========================================
 # import dateset
 #=========================================
-df = pd.read_csv ('Projeto 1\\train.csv')
+df = pd.read_csv ('dataset/train.csv')
 
 #Limpando os dados
 df1 = clean_code(df)
