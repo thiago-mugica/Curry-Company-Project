@@ -89,7 +89,7 @@ g. Tempo médio do entregador mais rápido por cidade.
 
 # 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://project-currycompany.streamlit.app/
+O painel pode ser acessado através desse link: https://mugica-projects-curry-company.streamlit.app/
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
